@@ -1,2 +1,5 @@
-a{color: bule;}
-a:hover{color: green;}
+
+.a{color: bule;}
+.a:hover{color: red;}
+.body{display: flex;}
+
