@@ -1,11 +1,15 @@
 a{color: black;}
 a:hover{color: green;}
-
+  p{            text-indent: 2em;
+ }
 body{display: flex;flex-direction: column}  /*  header,body,footer，三个板块*/
 main{display: flex;flex: auto}                        /*只有aside article */
 aside{flex:1;}
 article{flex:3;}
-
+.zhengti{display: flex; justify-content:: column;}
+.dungbuzhong{display: flex; flex-direction: row-reverse;justify-content: flex-start}
+.shang{background-color:#3423}
+.xia{background-color:#3424}
 
 
 
